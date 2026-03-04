@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AEntityEntry_002Ecs_002Fl_003AC_0021_003FUsers_003FNew_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fff5d119c31074a03a859562463ca91f92b1c20_003F92_003Ff17f3cd7_003FEntityEntry_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AInternalDbSet_002Ecs_002Fl_003AC_0021_003FUsers_003FNew_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fee2df82a294ff5828d07f95e9f7576e676a84630b8efda6c13183b37314ff_003FInternalDbSet_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0c841115_002Da254_002D4e6b_002Da61d_002Dcbe599263271/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Backend.Tests1&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="I:\Inforce\Backend\Backend.Tests1" Presentation="&amp;lt;Backend.Tests1&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0fd47326_002D00f6_002D4091_002D9681_002D85b7aec40f75/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;Backend.Tests1&amp;gt; #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="I:\Inforce\Backend\Backend.Tests1" Presentation="&amp;lt;Backend.Tests1&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=179784a2_002Db7b8_002D44cf_002D9281_002Defea3d79b9c5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AuthServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5328F752-A569-4088-A195-73E62C100F61::net10.0::Backend.Tests1.AuthServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=621843fc_002D2879_002D4942_002D82cb_002Dbc694f51838f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShortUrlServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5328F752-A569-4088-A195-73E62C100F61::net10.0::Backend.Tests.ShortUrlServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a23da849_002Df294_002D4fd5_002Dbbc2_002D5861e5d9341d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Backend.Tests1&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="I:\Inforce\Backend\Backend.Tests1" Presentation="&amp;lt;Backend.Tests1&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c6f3c80f_002Dd8e3_002D4873_002D970a_002Dd1fdb7fcb926/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LoginAsync_WhenPasswordInvalid_ThrowsUnauthorizedException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5328F752-A569-4088-A195-73E62C100F61::net10.0::Backend.Tests1.AuthServiceTests.LoginAsync_WhenPasswordInvalid_ThrowsUnauthorizedException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
