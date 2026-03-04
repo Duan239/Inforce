@@ -48,6 +48,13 @@ public class ShortUrlService : IShortUrlService
 
     public async Task<ShortUrlDto> CreateAsync(CreateShortUrlDto dto, int userId)
     {
+        
+        if (!Uri.TryCreate(dto.OriginalUrl, UriKind.Absolute, out var uri) ||
+            (uri.Scheme != Uri.UriSchemeHttp && uri.Scheme != Uri.UriSchemeHttps))
+        {
+            throw new ArgumentException("Invalid URL");
+        }
+        
         var shortUrl = new ShortUrl
         {
             OriginalUrl = dto.OriginalUrl,
@@ -60,7 +67,7 @@ public class ShortUrlService : IShortUrlService
         shortUrl.ShortCode = Encode(shortUrl.Id);
         await _repository.UpdateAsync(shortUrl);
 
-        var created = await _repository.GetByIdAsync(shortUrl.Id); 
+        var created = await _repository.GetByIdAsync(shortUrl.Id);
 
         return new ShortUrlDto
         {
@@ -86,6 +93,7 @@ public class ShortUrlService : IShortUrlService
     private string Encode(int id)
     {
         const string chars = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        id += 100000;
         var result = "";
         while (id > 0)
         {

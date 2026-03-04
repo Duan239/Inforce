@@ -22,8 +22,14 @@ const LoginPage = () => {
             const token = await authService.login(username, password);
             login(token);
             navigate('/urls');
-        } catch {
-            setError('Invalid credentials');
+        } catch (error: any) {
+            const validationErrors = error.response?.data?.errors;
+            if (validationErrors) {
+                const firstError = Object.values(validationErrors)[0] as string[];
+                setError(firstError[0]);
+            } else {
+                setError(error.response?.data?.error || 'Registration failed');
+            }
         }
     };
 
@@ -32,8 +38,14 @@ const LoginPage = () => {
         try {
             await authService.register(username, password);
             setIsLogin(true);
-        } catch {
-            setError('Registration failed');
+        } catch (error: any) {
+            const validationErrors = error.response?.data?.errors;
+            if (validationErrors) {
+                const firstError = Object.values(validationErrors)[0] as string[];
+                setError(firstError[0]);
+            } else {
+                setError(error.response?.data?.error || 'Registration failed');
+            }
         }
     };
 

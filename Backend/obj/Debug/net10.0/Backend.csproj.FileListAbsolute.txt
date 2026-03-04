@@ -188,3 +188,14 @@ I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Te
 I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\obj\Backend.Tests1.csproj.nuget.dgspec.json
 I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\obj\project.assets.json
 I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\obj\project.packagespec.json
+I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\appsettings.Development.json
+I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\appsettings.json
+I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.deps.json
+I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.runtimeconfig.json
+I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.staticwebassets.endpoints.json
+I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1.deps.json
+I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1.runtimeconfig.json
+I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\obj\Backend.Tests1.csproj.nuget.dgspec.json
+I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\obj\project.assets.json
+I:\Inforce\Backend\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\bin\Debug\net10.0\Backend.Tests1\obj\project.packagespec.json
+I:\Inforce\Backend\obj\Debug\net10.0\Backend.sourcelink.json
